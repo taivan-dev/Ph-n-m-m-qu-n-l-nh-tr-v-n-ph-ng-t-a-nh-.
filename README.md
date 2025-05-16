@@ -1,2 +1,2 @@
-# Ph-n-m-m-qu-n-l-nh-tr-v-n-ph-ng-t-a-nh-.
+# demo du an
 Phần mềm quản lí nhà trọ/ văn phòng/ tòa nhà.
